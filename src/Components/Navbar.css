@@ -1,0 +1,14 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: rgba(17,24,39,0.95);
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links li {
+  display: inline-block;
+}
